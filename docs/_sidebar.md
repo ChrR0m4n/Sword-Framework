@@ -1,4 +1,4 @@
-* [Spear-framework](/fastjson/README.md)
+* [Spear-framework]()
   
 * Shiro
   * [CVE-2020-11989](shiro/cve-2020-11989.md "Apache Shiro身份验证绕过漏洞（CVE-2020-11989）")
