@@ -1,9 +1,9 @@
-* [Spear-framework]()
+* [Sword-Framework]()
 
 * Shiro
 
-	* [CVE-2020-11989](shiro/cve-2020-11989.md "Apache Shiro身份验证绕过漏洞（CVE-2020-11989）")
-	* [CVE-2020-1957](shiro/cve-2020-1957.md "Apache Shiro身份验证绕过漏洞（CVE-2020-1957）")
+  * [CVE-2020-11989](shiro/cve-2020-11989.md "Apache Shiro身份验证绕过漏洞（CVE-2020-11989）")
+  * [CVE-2020-1957](shiro/cve-2020-1957.md "Apache Shiro身份验证绕过漏洞（CVE-2020-1957）")
 
 * Weblogic
 
@@ -24,6 +24,5 @@
   * [应用产品默认口令](default-pwd/app-products.md)
   * [IOT 产品默认口令](default-pwd/iot-products.md)
 
-* [搭建 Spear-framework](INSTALL.md "搭建 Spear-framework")
 * [更新日志](CHANGELOG.md)
 
