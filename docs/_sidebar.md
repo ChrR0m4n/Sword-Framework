@@ -7,7 +7,7 @@
   * BSPHP
     * [未授权访问](CMS漏洞/BSPHP/BSPHP未授权访问信息泄露漏洞.md) 
   * Discuz!X
-    * [Discuz!X小于3.4 后台SQL注入](CMS漏洞/Discuz!x/Discuz!X小于3.4R20191201后台SQL注入漏洞.md)
+    * [Discuz!X小于3.4 后台SQL注入](CMS漏洞/Discuz!X/Discuz!X小于3.4R20191201后台SQL注入漏洞.md)
   * OKLite
     * [OKLite1.2.25 后台插件安装任意文件上传](CMS漏洞/OKLite//OKLite1.2.25后台插件安装任意文件上传.md)
     * [OKLite1.2.25 后台插件安装任意文件上传 CVE-2019-16131](CMS漏洞/OKLite/OKLite1.2.25后台模块导入任意文件上传CVE-2019-16131.md)
