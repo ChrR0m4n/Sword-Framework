@@ -13,7 +13,7 @@
     * [OKLite1.2.25 后台插件安装任意文件上传 CVE-2019-16131](CMS漏洞/OKLite/OKLite1.2.25后台模块导入任意文件上传CVE-2019-16131.md)
     * [OKLite1.2.25 后台风格模块任意文件删除](CMS漏洞/OKLite/OKLite1.2.25后台风格模块任意文件删除CVE-2019-16132.md)
   * Typesetter
-    * [TypesetterCMS 5-5.1 任意文件上传](CMS漏洞/Typesetter/TypesetterCMS 5-5.1任意文件上传.md)
+    * [TypesetterCMS 5-5.1 任意文件上传](CMS漏洞/Typesetter/TypesetterCMS5-5.1任意文件上传.md)
   * Weiphp
     * [Weiphp5.0 任意用户Cookie伪造](CMS漏洞/Weiphp/Weiphp5.0任意用户Cookie伪造CNVD-2021-09693.md)
     * [Weiphp5.0 前台文件任意读取](CMS漏洞/Weiphp/Weiphp5.0前台文件任意读取CNVD-2020-68596.md)
