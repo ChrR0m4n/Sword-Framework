@@ -9,7 +9,7 @@
   * Discuz!X
     * [Discuz!X小于3.4 后台SQL注入](CMS漏洞/Discuz!X/后台SQL注入漏洞.md)
   * OKLite
-    * [OKLite1.2.25 后台插件安装任意文件上传](CMS漏洞/OKLite//OKLite1.2.25后台插件安装任意文件上传.md)
+    * [OKLite1.2.25 后台插件安装任意文件上传](CMS漏洞/OKLite/OKLite1.2.25后台插件安装任意文件上传.md)
     * [OKLite1.2.25 后台插件安装任意文件上传 CVE-2019-16131](CMS漏洞/OKLite/OKLite1.2.25后台模块导入任意文件上传CVE-2019-16131.md)
     * [OKLite1.2.25 后台风格模块任意文件删除](CMS漏洞/OKLite/OKLite1.2.25后台风格模块任意文件删除CVE-2019-16132.md)
   * Typesetter
